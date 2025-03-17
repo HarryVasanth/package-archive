@@ -7,6 +7,10 @@ Welcome to the **package-archive** repository! This repository serves as a backu
 Currently, this repository contains the following package:
 
 - [`gitea:1.16`](https://github.com/HarryVasanth/package-archive/pkgs/container/gitea)
+- [`postgres:11-bookworm`](https://github.com/HarryVasanth/package-archive/pkgs/container/postgres)
+- [`node:20-alpine`](https://github.com/HarryVasanth/package-archive/pkgs/container/node)
+- [`graphql-engine:v2.38.0.cli-migrations-v3`](https://github.com/HarryVasanth/package-archive/pkgs/container/graphql-engine)
+- [`lib-js:latest`](https://github.com/HarryVasanth/package-archive/pkgs/container/lib-js)
 
 ## Usage
 
