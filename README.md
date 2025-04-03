@@ -11,6 +11,7 @@ Currently, this repository contains the following package:
 - [`node:20-alpine`](https://github.com/HarryVasanth/package-archive/pkgs/container/node)
 - [`graphql-engine:v2.38.0.cli-migrations-v3`](https://github.com/HarryVasanth/package-archive/pkgs/container/graphql-engine)
 - [`lib-js:latest`](https://github.com/HarryVasanth/package-archive/pkgs/container/lib-js)
+- [`cas:6.4.0`](https://github.com/HarryVasanth/package-archive/pkgs/container/cas)
 
 ## Usage
 
